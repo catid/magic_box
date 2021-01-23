@@ -39,6 +39,8 @@ Insert the Arduino into the bottom, and screw it in with M3 screws that are 4-6 
 
 Insert the kit's phototransistor into the 5 mm circular hole in the top, and hot glue it into place from inside the case.
 
+Place the cross-shaped white stepper motor adapter into the bottom of the spinner (it should have a tight fit).  Use the two tiny metal screws in the stepper motor box to screw it into the spinner securely.
+
 The Arduino kit recommends adding a 100 uF capacitor between power and ground due to the motor current draw.  It also needs a resistor between the photoresistor negative lead and ground.  This stuff is all covered in the Arduino kit book, so glossing over it here.
 
 The code assumes that the photoresistor is connected to A0, and the motor PWM (white) pin is connected to D13.
@@ -53,3 +55,5 @@ I kind of just mashed everything into the Arduino side of the case to avoid havi
 The source code is under `magic_box.ino`.
 
 Just drop it into the Arduino IDE and upload it.
+
+You probably need to hand-rotate the spinner a bit until it's position is aligned with the hole in the top of the case.
