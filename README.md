@@ -1,6 +1,6 @@
 # Magic Box of Transmutation
 
-Example build video:
+Example video:
 https://www.youtube.com/watch?v=79AKvBjL8Qg
 
 The STEP file is included in case you want to make your own remixes.
