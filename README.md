@@ -39,7 +39,7 @@ Insert the Arduino into the bottom, and screw it in with M3 screws that are 4-6 
 
 Insert the kit's phototransistor into the 5 mm circular hole in the top, and hot glue it into place from inside the case.
 
-The Arduino kit recommends adding a 100 uF capacitor between power and ground due to the motor current draw.  It also needs a resistor between the photoresistor negative lead and ground.  This stuff is all covered in the Arduino kit book, so glossing over it here.
+The Arduino kit recommends adding a 100 uF capacitor between power and ground due to the motor current draw.  It also needs a 10 kOhm resistor between the photoresistor negative lead and ground.  This stuff is all covered in the Arduino kit book, so glossing over it here.
 
 The code assumes that the photoresistor is connected to A0, and the motor PWM (white) pin is connected to D13.
 
