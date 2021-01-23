@@ -56,4 +56,4 @@ The source code is under `magic_box.ino`.
 
 Just drop it into the Arduino IDE and upload it.
 
-You probably need to hand-rotate the spinner a bit until it's position is aligned with the hole in the top of the case.
+You probably need to hand-rotate the spinner a bit until its position is aligned with the hole in the top of the case.
