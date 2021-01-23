@@ -43,6 +43,10 @@ The Arduino kit recommends adding a 100 uF capacitor between power and ground du
 
 The code assumes that the photoresistor is connected to A0, and the motor PWM (white) pin is connected to D13.
 
+I kind of just mashed everything into the Arduino side of the case to avoid having the wires rub against the spinner:
+
+![Build Guide](build_guide.jpg)
+
 
 ### Programming Guide
 
